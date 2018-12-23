@@ -1,7 +1,14 @@
 .find .find_options{
     background-color: #eeeeee;
     display: flex;
+    align-items: flex-start;
     justify-content: space-between;
     padding-top: 25px;
     padding-bottom: 15px;
 } 
+
+.find_options .find_option{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
