@@ -11,4 +11,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: space-between;
+}
+
+.find_option i{
+    margin-bottom: 15px;
 }
