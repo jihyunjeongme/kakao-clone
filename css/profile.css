@@ -49,7 +49,9 @@
     flex-direction: column;
     align-items: center;
     margin-right: 15px;
-    cursor: not-allowed;
+    /* cursor: not-allowed; */
+    cursor: pointer;
+
 }
 
 .profile_action-circle {
